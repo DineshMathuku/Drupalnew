@@ -1,6 +1,6 @@
 CONTENTS OF THIS FILE
 ---------------------
-
+Test comments
  * Introduction
  * Requirements
  * Recommended modules
